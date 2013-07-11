@@ -1,0 +1,21 @@
+.aligncenter{
+	margin-top:50px;
+	text-align:center;
+}
+
+body{
+	width: 800px;
+	margin: auto;
+}
+
+ul{
+	padding-bottom: 50px;
+}
+
+.tableshow{
+	margin-top: 25px;
+}
+
+.ddd{
+	display: inline-block;
+}
